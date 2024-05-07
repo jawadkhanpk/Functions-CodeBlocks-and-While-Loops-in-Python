@@ -5,3 +5,9 @@
 - Functions with Input
 - Paint Area Calculator using Functions
 - Prime Number Checker
+
+### Difference Between Parameter and Argument of a Functions
+ 
+Parameter | Argument
+------------ | -------------
+Name of a Data | Actual Data
