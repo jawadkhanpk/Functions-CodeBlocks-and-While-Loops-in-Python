@@ -11,6 +11,6 @@
 
 ### Difference Between Parameter & Argument of a Functions
 
-Parameter | Argument
------------- | -------------
-Name of a Data | Actual Data
+| Parameter      | Argument    |
+|----------------|-------------|
+| Name of a Data | Actual Data |
