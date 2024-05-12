@@ -5,6 +5,9 @@
 - Functions with Input
 - Paint Area Calculator using Functions
 - Prime Number Checker
+- Functions with Output
+- Days in a Month Coding Exercise
+- Calculator in Python
 
 ### Difference Between Parameter & Argument of a Functions
 
